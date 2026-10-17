@@ -1,7 +1,0 @@
-{
-  "name": "impressao-3d",
-  "version": "1.0.0",
-  "engines": {
-    "node": "20.x"
-  }
-}
